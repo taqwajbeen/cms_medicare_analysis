@@ -20,4 +20,6 @@ Navigate to file Menu and open the workbook from the cloned repo
 Navigate to the Story tab for all visualizations
 
 ## Tableau Story
+Story Link: 
+https://public.tableau.com/views/UnravelingHospitaltrendsAdataOdyssey/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
 ![alt text](https://github.com/taqwajbeen/cms_medicare_analysis/blob/master/images/Tableau_Story.png)
