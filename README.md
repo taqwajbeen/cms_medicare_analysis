@@ -18,3 +18,6 @@ git clone https://gitlab.com/taqwajbeen/cms_medicare_analysis.git
 Open the Tableau application on your local machine
 Navigate to file Menu and open the workbook from the cloned repo
 Navigate to the Story tab for all visualizations
+
+## Tableau Story
+
